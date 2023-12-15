@@ -1,0 +1,35 @@
+{
+  "name": "useless-decaf-website",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^5.2.6",
+    "@ant-design/pro-components": "^2.6.4",
+    "@plasmicapp/cli": "^0.1.325",
+    "@plasmicapp/react-web": "^0.2.309",
+    "@plasmicpkgs/antd5": "^0.0.201",
+    "@plasmicpkgs/plasmic-basic-components": "^0.0.204",
+    "@plasmicpkgs/plasmic-embed-css": "^0.1.170",
+    "@plasmicpkgs/plasmic-nav": "^0.0.155",
+    "@plasmicpkgs/plasmic-rich-components": "^1.0.171",
+    "@plasmicpkgs/plasmic-tabs": "^0.0.25",
+    "@plasmicpkgs/react-awesome-reveal": "^3.8.186",
+    "next": "14.0.4",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.4",
+    "typescript": "^5"
+  }
+}
